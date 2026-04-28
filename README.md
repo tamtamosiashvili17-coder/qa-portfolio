@@ -163,5 +163,5 @@ Tested REST APIs using Postman and Swagger.
 
 ## 🔗 Contact
 
-* LinkedIn: (add your link)
+* LinkedIn: www.linkedin.com/in/tamta-mosiashvili-b55a52292
 * GitHub: (add your link)
