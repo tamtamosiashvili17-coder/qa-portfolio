@@ -155,7 +155,7 @@ Tested REST APIs using Postman and Swagger.
 ## 📌 Key Highlights
 
 * Tested real-world HR system modules
-* Reported 50+ bugs using Jira
+* Reported 300+ bugs using Jira
 * Experience in UI, functional, validation, permission, and business logic testing
 * Strong attention to detail and analytical thinking
 
